@@ -1,2 +1,2 @@
 # carefara-backend
-Backend repository for carefara
+Backend repository for carefara.
